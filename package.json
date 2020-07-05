@@ -1,5 +1,5 @@
 {
-  "name": "Sheets-API-Project",
+  "name": "sheets-api-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
 }
